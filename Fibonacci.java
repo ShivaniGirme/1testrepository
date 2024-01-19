@@ -1,5 +1,25 @@
 import java.util.Arrays;
 import java.util.Scanner;
+//Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]
+//Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]
 class Fibonacci{
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
@@ -17,3 +37,20 @@ class Fibonacci{
 // Enter The Number Of Elements :
 // 5
 // [0, 1, 1, 2, 3]
+//Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]// Enter The Number Of Elements :
+//5
+//[0, 1, 1, 2, 3]
